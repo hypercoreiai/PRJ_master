@@ -1,7 +1,0 @@
-pandas>=2.0.0
-yfinance>=0.2.0
-fredapi>=0.5.0
-python-dotenv>=1.0.0
-requests>=2.28.0
-beaapi>=0.1.0
-pytest>=7.0.0

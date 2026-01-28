@@ -114,6 +114,7 @@ dmypy.json
 Thumbs.db
 
 # Project specific
+_BU/
 data/raw/
 data/clean_indicators/
 data/clean_ohlcv/
